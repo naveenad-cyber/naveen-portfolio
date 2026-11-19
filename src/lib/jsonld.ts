@@ -2,7 +2,7 @@ import { profile } from '@/data/profile'
 import { siteUrl } from '@/lib/site'
 
 export const siteDescription =
-  'Cybersecurity Awareness & Culture Lead at NextGen Identity. 720+ hours of cybersecurity training delivered across India and Europe. Security culture, human risk management, phishing simulation and corporate security training.'
+  'Cybersecurity Awareness & Culture Lead at NextGen Identity. 720+ hours of training across India and Europe. Security culture, human risk and phishing awareness.'
 
 /** Expertise that is shown on the site (Skills, Experience and Training sections). */
 export const knowsAbout = [
