@@ -9,6 +9,14 @@ export interface Project {
 /** Technical foundations — carried over from the original portfolio. */
 export const projects: Project[] = [
   {
+    id: 'security-culture-command-center',
+    title: 'Security Culture Command Center',
+    description:
+      'Full-stack cybersecurity management platform with executive dashboards, phishing simulation analytics, training & compliance tracking, risk scoring heatmaps, and maturity assessments — managing 5,000+ employees across 10 departments.',
+    tags: ['Python', 'FastAPI', 'Streamlit', 'SQLAlchemy'],
+    year: '2026',
+  },
+  {
     id: 'gpt-vuln-analyzer',
     title: 'GPT-Vuln-Analyzer',
     description:
