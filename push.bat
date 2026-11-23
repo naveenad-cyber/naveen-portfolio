@@ -8,7 +8,7 @@ git init
 git add -A
 git commit -m "Hacker-theme portfolio"
 git branch -M main
-git remote add origin https://github.com/nzelyn/naveen-portfolio.git
+git remote add origin https://github.com/naveenad-cyber/naveen-portfolio.git
 git push -u origin main --force
 echo.
 echo DONE. Check Vercel Deployments.

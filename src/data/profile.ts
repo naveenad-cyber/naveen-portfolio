@@ -25,7 +25,7 @@ export const profile = {
   email: 'naveenadsince2k2@gmail.com',
   phone: '+91-9606258657',
   linkedin: 'https://www.linkedin.com/in/naveenad-cybersecurity',
-  github: 'https://github.com/nzelyn',
+  github: 'https://github.com/naveenad-cyber',
   /** Add your channel URL (e.g. https://www.youtube.com/@yourhandle). It is added to the structured data only when filled in. */
   youtube: '',
   credly: 'https://credly.com/users/naveen-ad',
